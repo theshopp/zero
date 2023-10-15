@@ -1,0 +1,15 @@
+/workspaces/zero/bin/Debug/net7.0/zero
+/workspaces/zero/bin/Debug/net7.0/zero.deps.json
+/workspaces/zero/bin/Debug/net7.0/zero.runtimeconfig.json
+/workspaces/zero/bin/Debug/net7.0/zero.dll
+/workspaces/zero/bin/Debug/net7.0/zero.pdb
+/workspaces/zero/obj/Debug/net7.0/zero.csproj.AssemblyReference.cache
+/workspaces/zero/obj/Debug/net7.0/zero.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zero/obj/Debug/net7.0/zero.AssemblyInfoInputs.cache
+/workspaces/zero/obj/Debug/net7.0/zero.AssemblyInfo.cs
+/workspaces/zero/obj/Debug/net7.0/zero.csproj.CoreCompileInputs.cache
+/workspaces/zero/obj/Debug/net7.0/zero.dll
+/workspaces/zero/obj/Debug/net7.0/refint/zero.dll
+/workspaces/zero/obj/Debug/net7.0/zero.pdb
+/workspaces/zero/obj/Debug/net7.0/zero.genruntimeconfig.cache
+/workspaces/zero/obj/Debug/net7.0/ref/zero.dll
